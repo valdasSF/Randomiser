@@ -1,5 +1,5 @@
 This is the most basic page ever.
 <br>
-<a href="https://github.com/valdasSF/Randomiser/blob/master/sample/about.html">About Page</a>
+<a href="https://github.com/valdasSF/Randomiser/blob/master/sample/about.md">About Page</a>
 [GitHub](http://github.com)
-[Some random site](https://github.com/valdasSF/Randomiser/blob/master/sample/about.html)
+[Some random site](https://github.com/valdasSF/Randomiser/blob/master/sample/about.md)
